@@ -40,7 +40,7 @@ APN은 이동통신 데이터 접속 주소입니다. 회선과 플랜이 맞는
 
 1. Saily 앱에서 사용 중인 eSIM을 선택합니다.
 2. add data → 여행 국가 또는 지역 → 필요한 용량을 선택합니다.
-3. continue를 눌러 기간과 금액을 읽은 뒤 구매를 진행합니다.
+3. continue를 눌러 기간과 금액을 읽은 뒤 구매합니다.
 4. 앱에서 새 플랜을 확인하고 Saily 회선을 켠 상태로 유지합니다.
 
 출처: [같은 eSIM에 데이터 추가](https://support.saily.com/hc/en-us/articles/12823150321052-What-happens-when-I-run-out-of-data-on-my-eSIM)
