@@ -41,7 +41,7 @@ Airalo → My eSIMs → 사용 중인 eSIM을 엽니다. 지원되는 상품은 
 
 패키지가 자동으로 활성화되지 않을 때 Airalo는 기기 재시작 또는 비행기 모드 전환을 안내합니다. 그 후 잔량과 연결 상태를 다시 봅니다.
 
-패키지가 유효한데도 접속할 수 없다면 데이터 회선·로밍·APN을 확인하는 단계입니다. 위 메뉴의 연결 문제 안내에서 이어가세요.
+패키지가 유효한데도 접속할 수 없다면 데이터 회선·로밍·APN을 확인하세요. 위 메뉴의 연결 문제 안내에서 이어가세요.
 
 출처: [Airalo 충전 방법](https://www.airalo.com/help/using-managing-esims/ZSEEHBT5HW6F/how-can-i-top-up-an-esim/2DMCF3341SYF)
 
