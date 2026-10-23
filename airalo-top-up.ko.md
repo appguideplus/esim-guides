@@ -1,8 +1,16 @@
+![AppGuide+ TRAVEL eSIM](cover.svg)
+
+[이 분야의 안내](README.md) · [AppGuide+](https://github.com/appguideplus/app-guides#readme)
+
 # Airalo 데이터 충전: 잔량·유효기간·Top up 확인
 
 여행 중 인터넷이 끊겼다면 데이터가 소진됐는지, 패키지 기간이 끝났는지부터 나눠 보세요. 충전 가능한 eSIM은 My eSIMs에서 새 패키지를 선택할 수 있습니다.
 
-[Airalo](airalo.ko.md) · [전체 가이드](README.md) · [웹에서 보기](https://appguideplus.com/ko/airalo/top-up/)
+**[웹사이트에서 안내 보기 →](https://appguideplus.com/ko/airalo/top-up/?utm_source=github)**
+
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
+
+---
 
 ## 잔량과 사용량은 어디에서 볼까
 
@@ -11,6 +19,9 @@ Airalo → My eSIMs → 사용 중인 eSIM을 엽니다. 지원되는 상품은 
 휴대폰 설정에 나오는 데이터 사용량은 이미 쓴 양입니다. Airalo의 남은 데이터와 같은 숫자로 읽으면 안 됩니다.
 
 출처: [Airalo 잔량·사용량](https://www.airalo.com/help/using-managing-esims/ZSEEHBT5HW6F/how-can-i-check-my-current-data-usage/N7ZJZHOKPJE1)
+
+<details>
+<summary><strong>같은 eSIM에 데이터 충전하기</strong></summary>
 
 ## 같은 eSIM에 데이터 충전하기
 
@@ -21,6 +32,11 @@ Airalo → My eSIMs → 사용 중인 eSIM을 엽니다. 지원되는 상품은 
 
 출처: [Airalo 충전 방법](https://www.airalo.com/help/using-managing-esims/ZSEEHBT5HW6F/how-can-i-top-up-an-esim/2DMCF3341SYF)
 
+</details>
+
+<details>
+<summary><strong>Top up 버튼이 없으면</strong></summary>
+
 ## Top up 버튼이 없으면
 
 모든 eSIM을 충전할 수 있는 것은 아닙니다. 구매 전 Additional information에 충전 가능 여부가 안내됩니다.
@@ -28,6 +44,11 @@ Airalo → My eSIMs → 사용 중인 eSIM을 엽니다. 지원되는 상품은 
 이미 구매한 eSIM에 버튼이 없거나 작동하지 않으면 비충전 상품이거나 통신사가 바뀐 경우일 수 있습니다. 이때는 새 eSIM이 필요한지 상품 설명 또는 지원팀에 확인하세요. 충전이 안 된다고 기존 eSIM부터 삭제할 필요는 없습니다.
 
 출처: [Airalo 충전 방법](https://www.airalo.com/help/using-managing-esims/ZSEEHBT5HW6F/how-can-i-top-up-an-esim/2DMCF3341SYF)
+
+</details>
+
+<details>
+<summary><strong>기간이 끝나면 남은 데이터는?</strong></summary>
 
 ## 기간이 끝나면 남은 데이터는?
 
@@ -37,6 +58,11 @@ Airalo → My eSIMs → 사용 중인 eSIM을 엽니다. 지원되는 상품은 
 
 출처: [패키지 만료와 시작 시점](https://www.airalo.com/help/getting-started-with-airalo/E8DFWD88SHUX/when-does-my-esim-data-package-expire/0HBQDX9CSUPR) · [기간 만료 후 남은 데이터](https://www.airalo.com/help/using-managing-esims/ZSEEHBT5HW6F/what-happens-to-the-unused-data-after-the-validity-period/HTSOUWA3EA6V)
 
+</details>
+
+<details>
+<summary><strong>충전했는데 연결이 안 되면</strong></summary>
+
 ## 충전했는데 연결이 안 되면
 
 패키지가 자동으로 활성화되지 않을 때 Airalo는 기기 재시작 또는 비행기 모드 전환을 안내합니다. 그 후 잔량과 연결 상태를 다시 봅니다.
@@ -45,10 +71,20 @@ Airalo → My eSIMs → 사용 중인 eSIM을 엽니다. 지원되는 상품은 
 
 출처: [Airalo 충전 방법](https://www.airalo.com/help/using-managing-esims/ZSEEHBT5HW6F/how-can-i-top-up-an-esim/2DMCF3341SYF)
 
+</details>
+
+<details>
+<summary><strong>함께 볼 안내</strong></summary>
+
 ## 함께 볼 안내
 
 - [Airalo eSIM 구매·설치: 여행 국가와 유효기간 선택](airalo.ko.md)
 - [Airalo eSIM 설치 후 인터넷이 안 될 때](airalo-connection.ko.md)
+
+</details>
+
+<details>
+<summary><strong>출처와 확인일</strong></summary>
 
 ## 출처와 확인일
 
@@ -60,3 +96,11 @@ Airalo → My eSIMs → 사용 중인 eSIM을 엽니다. 지원되는 상품은 
 내용 확인일: 2026-09-14. GitHub판 편집일: 2026-09-14.
 
 AppGuide+가 작성한 독립적인 이용 안내이며, 각 서비스의 공식 고객지원 문서는 아닙니다.
+
+</details>
+
+---
+
+[웹 안내로 이어가기](https://appguideplus.com/ko/airalo/top-up/?utm_source=github) · [다른 안내 고르기](README.md)
+
+읽기 구성 정리: 2026-10-23.

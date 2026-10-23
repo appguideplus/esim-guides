@@ -1,53 +1,40 @@
-# 여행 eSIM 사용법: Airalo·Saily 설치와 연결
+![AppGuide+ 여행 인터넷, 출국 전에 준비](cover.svg)
 
-Airalo와 Saily 여행 eSIM의 구매·설치·충전·연결 확인 안내입니다.
+[전체 앱](https://github.com/appguideplus/app-guides#readme) / 여행 인터넷, 출국 전에 준비
 
-## 바로가기
+# 여행 인터넷, 출국 전에 준비
 
-- [AppGuide+ 전체목차](https://github.com/appguideplus/app-guides/blob/main/README.md)
-- [앱별 웹 가이드](https://appguideplus.com/ko/apps/?utm_source=github) · [카카오톡 채널](https://pf.kakao.com/_bxkarX)
+지원 기기와 여행지를 확인하고, 설치·연결·충전 순서로 이어집니다.
 
-## 서비스별 목차
+**[웹사이트에서 앱 둘러보기 →](https://appguideplus.com/ko/apps/?utm_source=github)** · [카카오톡 채널](https://pf.kakao.com/_bxkarX)
 
-### Airalo
+## 어디서 시작할까요?
 
-| 서비스 소개 | 단계별 가이드 |
-| --- | --- |
-| [Airalo eSIM 구매·설치: 여행 국가와 유효기간 선택](airalo.ko.md) | [Airalo 데이터 충전: 잔량·유효기간·Top up 확인](airalo-top-up.ko.md)<br>[Airalo eSIM 설치 후 인터넷이 안 될 때](airalo-connection.ko.md) |
+### Airalo eSIM 구매·설치
 
-### Saily
+**[선택 기준·기능](airalo.ko.md)** · [웹에서 보기](https://appguideplus.com/ko/airalo/?utm_source=github)
 
-| 서비스 소개 | 단계별 가이드 |
-| --- | --- |
-| [Saily eSIM 사용법: 구매 전 기기 확인부터 설치까지](saily.ko.md) | [Saily 인터넷이 안 될 때: 회선·로밍·데이터 추가](saily-connection-and-data.ko.md)<br>[Saily eSIM 설치와 출국 전 확인](saily-installation.ko.md) |
+- [Airalo eSIM 설치 후 인터넷이 안 될 때](airalo-connection.ko.md)
+- [Airalo 데이터 충전: 잔량·유효기간·Top up 확인](airalo-top-up.ko.md)
 
-### Saily 웹 안내
+### Saily eSIM 사용법
 
-- [구매 전 기기·여행지 조건 확인](https://appguideplus.com/ko/saily/?utm_source=github)
-- [설치와 출국 전 확인](https://appguideplus.com/ko/saily/installation/?utm_source=github) · [연결·데이터 문제 해결](https://appguideplus.com/ko/saily/connection-and-data/?utm_source=github)
+**[선택 기준·기능](saily.ko.md)** · [웹에서 보기](https://appguideplus.com/ko/saily/?utm_source=github)
 
-웹 안내에는 제휴 링크가 포함되며 구매에 따라 운영자가 수수료를 받을 수 있습니다.
+- [Saily 인터넷이 안 될 때: 회선·로밍·데이터 추가](saily-connection-and-data.ko.md)
+- [Saily eSIM 설치와 출국 전 확인](saily-installation.ko.md)
 
-## 인증 문자·전화가 필요할 때
+## 더 필요한 안내
 
+- [설치와 출국 전 확인](https://appguideplus.com/ko/saily/installation/?utm_source=github)
+- [연결·데이터 문제 해결](https://appguideplus.com/ko/saily/connection-and-data/?utm_source=github)
 - [여행 eSIM의 SMS·전화 지원과 기존 번호를 유지하는 방법](https://appguideplus.com/ko/guides/esim-sms/?utm_source=github)
+- [일본 eSIM 용량·무제한·핫스팟 비교](https://appguideplus.com/ko/saily/japan-esim/?utm_source=github)
 
-## 출처와 업데이트
+---
 
-각 글에서 공식 도움말 출처와 내용 확인일을 확인할 수 있습니다. AppGuide+가 작성한 독립 가이드이며 각 서비스의 공식 고객센터는 아닙니다.
+일부 웹 안내에는 제휴 링크가 포함됩니다. 해당 링크를 통한 구매·가입으로 운영자가 수수료를 받을 수 있습니다. AppGuide+는 독립 가이드입니다.
 
-목차 업데이트: 2026-09-21.
+각 문서에 공식 출처와 내용 확인일이 있습니다. 요금·쿠폰 조건은 연결된 서비스 화면에서도 확인하세요.
 
-
-
-
-## 일본 여행 전에 상품 고르기
-
-
-
-[일본 eSIM 용량·무제한·핫스팟 비교](https://appguideplus.com/ko/saily/japan-esim/?utm_source=github)
-
-
-
-여행 일수뿐 아니라 고속 데이터 제한, 동행자와의 공유, 원래 번호의 인증 문자도 확인하세요. 상품별 조건을 구분해 설명합니다.
-
+목차 편집: 2026-10-23.
